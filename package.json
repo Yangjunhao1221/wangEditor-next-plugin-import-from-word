@@ -21,7 +21,7 @@
   "homepage": "https://github.com/yutons3112/wangEditor-plugin-import-from-word#readme",
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "types": "dist/src/index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "cross-env NODE_OPTIONS=--unhandled-rejections=warn jest --detectOpenHandles --passWithNoTests",
     "test-c": "cross-env NODE_OPTIONS=--unhandled-rejections=warn jest --coverage",
